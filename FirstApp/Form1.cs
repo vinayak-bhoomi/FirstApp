@@ -14,6 +14,8 @@ namespace FirstApp
     {
         public Form1() {
             InitializeComponent();
+            string str;
+
         }
     }
 }
